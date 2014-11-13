@@ -10,3 +10,6 @@ This is a second check-in, via command line, into master on the server
 This is a change from a fork
 
 this is a change from a branch 2
+
+## This is a secondary heading
+### This is a tertiary heading
